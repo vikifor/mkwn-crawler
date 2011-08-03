@@ -1,4 +1,4 @@
-#!/bin/python -*- coding=utf-8 -*-
+#!/usr/bin/python -*- coding=utf-8 -*-
 
 # Ќе се креираат 2 Item објекти за секој најден текст:
 # 1 - Главниот TextDataItem објект во кој ќе се чува текстот и податоците релевантни за проектот
@@ -9,6 +9,7 @@ from scrapy.item import Item, Field
 class Metadata(Item):
     author = Field()
     style = Field()
+    url = Field()
 
 class TextDataItem(Item):
     kind = Field()
