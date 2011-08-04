@@ -5,7 +5,7 @@ Scrapy Crawler за MkWordNet
 нешто слично на [Princeton Wordnet][PWN], или уште поблиску [MultiWordnet][MWN]
 
 [PWN]: http://wordnetweb.princeton.edu/perl/webwn
-[MultiWordnet]: http://multiwordnet.fbk.eu/english/home.php
+[MWN]: http://multiwordnet.fbk.eu/english/home.php
 
 Покажувачи :)
 -------------
