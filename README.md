@@ -5,7 +5,7 @@ Scrapy Crawler за MkWordNet
 нешто слично на [Princeton Wordnet][PWN], или уште поблиску [MultiWordnet][MWN]
 
 [PWN]: http://wordnetweb.princeton.edu/perl/webwn
-[MultiWordnet]: http://multiwordnet.fbk.eu/english/home.php
+[MWN]: http://multiwordnet.fbk.eu/english/home.php
 
 Покажувачи :)
 -------------
@@ -18,7 +18,7 @@ Scrapy Crawler за MkWordNet
 
 [fork-a-repo]: http://help.github.com/fork-a-repo/
 
-Идејата е во oвоа репо да се чуваат сите работи поврзани
+Идејата е во oва репо да се чуваат сите работи поврзани
 со crawler-от, а во друго работите поврзани со NLP.
 
 Кога ќе бидете сигурни дека сѐ работи како што треба пуштете [pull request][pr]
@@ -55,5 +55,6 @@ ______________________
 [xpath]: http://www.w3schools.com/xpath/xpath_syntax.asp
 
 
-**P.S.
+**P.S.***
+
 Знам дека crawler е многу generic име, ама немаше опции. Не го користете името во други проекти :)
