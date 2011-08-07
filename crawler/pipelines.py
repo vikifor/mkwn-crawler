@@ -22,7 +22,6 @@ class CrawlerPipeline(object):
             doc = self.db.get(d_id)
             if len(doc['text']) > 0 and doc['text'].find(d['text']) != -1:
                 # ако постои документ од авторот со ист наслов додади го новиот текстот на постоечкиот
-                doc = self.db.get(d_id)
                 doc['text'] = "%s\n%s" % (doc['text'], d['text'])
         else:
             doc = d
