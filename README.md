@@ -33,8 +33,11 @@ Scrapy Crawler за MkWordNet
 1. Симнете го [scrapy-home][scrapy] од [scrapy-download][овде], или
 
     $ wget http://hg.scrapy.org/scrapy-0.12/archive/tip.tar.gz
+
     $ tar -zxvf tip.tar.gz
+
     $ cd scrapy-0-12...
+
     $ python setup.py install
 
 2. couchdb
